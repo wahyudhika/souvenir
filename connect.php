@@ -1,6 +1,6 @@
 <?php
 	$host = "localhost";
-	$user = "wahyudhika";
+	$user = "postgres";
 	$pass = "Alasyu1234567";
 	$port = "5432";
 	$dbname = "bkt_souvenir";
