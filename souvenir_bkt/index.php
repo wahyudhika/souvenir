@@ -38,7 +38,7 @@ require("../connect.php");
 
 <script type="text/javascript">
 
-var server = "http://localhost:8080/souvenir_postgre/souvenir_bkt/";
+var server = "http://13.76.103.39/bkt_souvenir/souvenir_bkt/";
 var map;
 var markersDua = [];
 var koordinat = 'null'
